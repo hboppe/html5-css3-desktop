@@ -125,3 +125,13 @@ footer > p {
 footer > p > span {
     font-weight: bolder;
 }
+
+footer a {
+    text-decoration: none;
+    color: white;
+
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
